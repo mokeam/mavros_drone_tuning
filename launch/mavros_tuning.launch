@@ -1,0 +1,3 @@
+<launch>
+   <node pkg="mavros_tuning" type="position.py" name="position_control" output="screen"/>
+</launch>
